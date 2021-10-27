@@ -1,6 +1,6 @@
 ### Olá, meu nome é Lanizia, mas todo mundo me chama de Lana! 👋
 
-- 🌱 Estudante de Front-end na <Laboratória>
+- 🌱 Desenvolvedora Front-end formada pelo bootcamp da <Laboratória>
 - 😄 Pronouns: ela/dela.
 
  <div>
