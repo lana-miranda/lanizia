@@ -1,6 +1,6 @@
 ### Olá, meu nome é Lanizia, mas todo mundo me chama de Lana! 👋
 
-- 👩‍🎨 Desenvolvedora Front-end e Salesforce.
+- 👩‍🎨 Desenvolvedora Front-end e Salesforce na Raízen.
 - 🎓 Formada pelo bootcamp da <Laboratória> em novembro de 2021.
 - 😄 Pronouns: ela/dela.
 
