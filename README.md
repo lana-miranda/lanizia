@@ -1,6 +1,8 @@
 ### Olá, meu nome é Lanizia, mas todo mundo me chama de Lana! 👋
 
-- 🌱 Desenvolvedora Front-end formada pelo bootcamp da <Laboratória>
+- 👩‍🎨 Desenvolvedora Front-end e Salesforce.
+- 🎓 Formação: Formada em desenvolvimento front-end pelo bootcamp da <Laboratória>
+      e desenvolvedora Salesforce pela Soulcode.
 - 😄 Pronouns: ela/dela.
 
  <div>
